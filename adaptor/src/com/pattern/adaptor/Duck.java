@@ -1,5 +1,6 @@
 package com.pattern.adaptor;
 
-public class Duck {
-
+public interface Duck {
+  void quack();
+  void fly();
 }

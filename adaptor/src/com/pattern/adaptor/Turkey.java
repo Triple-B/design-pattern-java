@@ -1,6 +1,6 @@
 package com.pattern.adaptor;
 
-public interface Duck {
-  void quack();
+public interface Turkey {
+  void gobble();
   void fly();
 }
